@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#personagens{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+button
+{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+
+    
+}
